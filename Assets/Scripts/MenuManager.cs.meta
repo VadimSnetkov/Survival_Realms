@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fe317aed7c353b8408a1e0d374344276
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320875
+  packageName: Minecraft-Style Building, Crafting and Survival System for PC & Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Block Building and Crafting System/Scripts/MenuManager.cs
+  uploadId: 801372

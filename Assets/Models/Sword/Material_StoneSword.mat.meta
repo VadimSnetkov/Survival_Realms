@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b91a280927325a48bb0f870f6754227
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320875
+  packageName: Minecraft-Style Building, Crafting and Survival System for PC & Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Block Building and Crafting System/Models/Sword/Material_StoneSword.mat
+  uploadId: 801372

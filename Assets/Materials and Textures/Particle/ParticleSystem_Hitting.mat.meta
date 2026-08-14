@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9a26f7dfaf08234f8e56fd0b72b5818
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320875
+  packageName: Minecraft-Style Building, Crafting and Survival System for PC & Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Block Building and Crafting System/Materials and Textures/Particle/ParticleSystem_Hitting.mat
+  uploadId: 801372

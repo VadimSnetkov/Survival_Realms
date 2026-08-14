@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b47a185a950f3714aab9a4cab43f82a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320875
+  packageName: Minecraft-Style Building, Crafting and Survival System for PC & Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Block Building and Crafting System/Materials and Textures/Materials
+    Blocks/Material_Cube_Iron.mat
+  uploadId: 801372

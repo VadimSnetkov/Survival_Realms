@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cdd36a70edbb6974192ea7e429488584
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320875
+  packageName: Minecraft-Style Building, Crafting and Survival System for PC & Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Block Building and Crafting System/Scripts/ChunkManager.cs
+  uploadId: 801372

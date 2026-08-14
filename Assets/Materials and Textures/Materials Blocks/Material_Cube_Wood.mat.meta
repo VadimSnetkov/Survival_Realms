@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de6ee30bbf47b564a9ca8d11ff7fa7ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320875
+  packageName: Minecraft-Style Building, Crafting and Survival System for PC & Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Block Building and Crafting System/Materials and Textures/Materials
+    Blocks/Material_Cube_Wood.mat
+  uploadId: 801372

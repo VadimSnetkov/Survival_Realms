@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8523bf1ea9dc2b34abbc33e2426d4f72
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 320875
+  packageName: Minecraft-Style Building, Crafting and Survival System for PC & Mobile
+  packageVersion: 1.0
+  assetPath: Assets/Block Building and Crafting System/Materials and Textures/Textures/RenderTexture.renderTexture
+  uploadId: 801372
